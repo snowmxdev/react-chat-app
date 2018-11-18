@@ -11,5 +11,3 @@ A real-time chat application with Node.js, Prisma, GraphQL, Next.js, React.js an
 - Private conversations
 - Group conversations
 - Search by conversations, users and messages
-
-
